@@ -8,3 +8,7 @@ This project is a Python script that allows users to add and display user detail
 
 ## Requirements
 - `openpyxl` library
+
+## Output
+![Add User Output](Add User.png)
+![Add User Output](Display & Exit.png)
