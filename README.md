@@ -10,5 +10,5 @@ This project is a Python script that allows users to add and display user detail
 - `openpyxl` library
 
 ## Output
-![Add User Output](Add User.png)
-![Add User Output](Display & Exit.png)
+![Add User Output](addUser.png)
+![Add User Output](displayAndExit.png)
